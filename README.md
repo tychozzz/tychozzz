@@ -2,7 +2,9 @@
 
 Hello guys, I'm Li Tianyu, but I always use ltyzzz as my username.😋
 
-I love programing (Java and Python3) and algorithm. Rencently, I'm learning Distributed System which I think is really cool and trendy.
+I love programing (Java and Python3) and algorithm. 
+
+Recently, I'm learning Distributed System which I think is really cool and trendy.
 
 I believe I can make it even though I'm programming noob now. 
 
