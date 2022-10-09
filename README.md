@@ -6,8 +6,6 @@ I love programing (Java and Python3) and algorithm. Front end techs are also int
 
 Recently, I'm learning Distributed System which I think is really cool and trendy.
 
-I believe I can make it even though I'm programming noob now. 
-
 ![ltyzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltyzzzxxx&show_icons=true&theme=tokyonight)
 
 ### My Projects
