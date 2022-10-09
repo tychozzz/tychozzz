@@ -2,9 +2,11 @@
 
 Hello guys, I'm Li Tianyu, but I always use ltyzzz as my username.😋
 
-I love programing (Java and Python3) and algorithm. Front end techs are also interesting such as React, Vue, mini-apps etc.
+I 'm mainly learning and working in the back-end direction.
 
-Recently, I'm learning Distributed System which I think is really cool and trendy.
+Front end techs are also interesting and I learned a little before such as React, Vue, mini-apps etc.
+
+Recently, I'm learning Distributed System which I think is really cool, trendy and USEFUL!
 
 ![ltyzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltyzzzxxx&show_icons=true&theme=tokyonight)
 
