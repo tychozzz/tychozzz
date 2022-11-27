@@ -16,7 +16,11 @@ Recently, I'm learning Distributed System which I think is really cool, trendy a
 
 [![Leetcode Everyday](https://github-readme-stats.vercel.app/api/pin?username=ltyzzzxxx&repo=Leetcode-Everyday&theme=radical)](https://github.com/ltyzzzxxx/Leetcode-Everyday)
 
-2. Click [this](https://ltyzzzxxx.github.io/) to enter into my cool personal Blog!
+2. This is the RPC framework implemented through Java. 
+
+[![RPC](https://github-readme-stats.vercel.app/api/pin?username=ltyzzzxxx&repo=Leetcode-Everyday&theme=radical)](https://github.com/ltyzzzxxx/ltyzzz-rpc)
+
+3. Click [this](https://ltyzzzxxx.github.io/) to enter into my cool personal Blog!
 
 ### Get in touch
 
