@@ -1,24 +1,35 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+ltyzzz)](https://git.io/typing-svg)
 
 Hello guys, I'm Li Tianyu, but I always use ltyzzz as my username.😋
 
-I 'm mainly learning and working in the back-end direction.
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ltyzzzxxx&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+</a>
 
-Front end techs are also interesting and I learned a little before such as React, Vue, mini-apps etc.
+### 🌟 **My Skills**  
 
-Recently, I'm learning Distributed System which I think is really cool, trendy and USEFUL!
+![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
+![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
+![](https://img.shields.io/badge/-Python-3e74a2?style=flat-square&logo=Python&logoColor=fff)
+![](https://img.shields.io/badge/-Go-77BBE2?style=flat-square&logo=Go&logoColor=fff)
+![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=fff)
+![](https://img.shields.io/badge/-Vue-4fc08d?style=flat-square&logo=Vue.js&logoColor=fff)
+![](https://img.shields.io/badge/-React-2d98ce?style=flat-square&logo=React&logoColor=fff)
+![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=fff)
+![](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=Linux&logoColor=fff)
+![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
+![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
+![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
 
-![ltyzzz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltyzzzxxx&show_icons=true&theme=tokyonight)
-
-### My Projects
+### ❤️ My Projects
 
 1. This is my Leetcode Solutions Notes Repository
 
-[![Leetcode Everyday](https://github-readme-stats.vercel.app/api/pin?username=ltyzzzxxx&repo=Leetcode-Everyday&theme=radical)](https://github.com/ltyzzzxxx/Leetcode-Everyday)
+[![Leetcode Everyday](https://github-readme-stats.vercel.app/api/pin?username=ltyzzzxxx&repo=Leetcode-Everyday&theme=transparent&bg_color=15,f2f7fd,E0EAFC)](https://github.com/ltyzzzxxx/Leetcode-Everyday)
 
 2. This is the RPC framework implemented through Java. 
 
-[![RPC](https://github-readme-stats.vercel.app/api/pin?username=ltyzzzxxx&repo=ltyzzz-rpc&theme=radical)](https://github.com/ltyzzzxxx/ltyzzz-rpc)
+[![RPC](https://github-readme-stats.vercel.app/api/pin?username=ltyzzzxxx&repo=ltyzzz-rpc&theme=transparent&bg_color=15,f2f7fd,E0EAFC)](https://github.com/ltyzzzxxx/ltyzzz-rpc)
 
 3. Click [this](https://ltyzzzxxx.github.io/) to enter into my cool personal Blog!
 
