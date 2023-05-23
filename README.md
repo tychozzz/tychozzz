@@ -33,6 +33,11 @@ Hello guys, I'm Li Tianyu, but I always use ltyzzz as my username.😋
 
 3. Click [this](https://ltyzzzxxx.github.io/) to enter into my cool personal Blog!
 
+### 💻 Coding Time
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### Get in touch
 
 Welcome to get in touch with me!
