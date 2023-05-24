@@ -36,9 +36,9 @@ Hello guys, I'm Li Tianyu, but I always use ltyzzz as my username.😋
 ### 💻 Coding Time
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2059%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-57-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-75-blue)
 
 **🐱 My GitHub Data** 
 
@@ -116,7 +116,7 @@ Go                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2023 16:06:38 UTC
+ Last Updated on 24/05/2023 18:36:48 UTC
 <!--END_SECTION:waka-->
 
 ### Get in touch
