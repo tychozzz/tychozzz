@@ -124,4 +124,3 @@ Welcome to get in touch with me!
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/ltyzzzxxx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tianyu-li-7068b8248/)
-[![Leetcode](https://img.shields.io/badge/Leetcode-yellow?logo=leetcode)](https://leetcode.cn/u/ltyzzz/)
