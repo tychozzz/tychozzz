@@ -1,10 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=2500&color=8C43EA&vCenter=true&width=200&height=40&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB;I'm+ltyzzz)](https://git.io/typing-svg)
-
-Hello guys, I'm Tycho, but I always use ltyzzz as my username.😋
-
-<a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ltyzzzxxx&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
-</a>
+<h1 align="center">Hi guys 👋, I'm ltyzzz</h1>
+<h3 align="center">A Full-Stack Developer.</h3>
 
 ### 🌟 **My Skills**  
 
@@ -20,6 +15,10 @@ Hello guys, I'm Tycho, but I always use ltyzzz as my username.😋
 ![](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=fff)
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
+
+<a href="#">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ltyzzzxxx&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+</a>
 
 ### ❤️ My Projects
 
