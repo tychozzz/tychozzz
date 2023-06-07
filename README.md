@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ltyzzzxxx&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ltyzzzxxx&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
 </a>
 
 ### ❤️ My Projects
@@ -31,6 +31,15 @@
 [![RPC](https://github-readme-stats.vercel.app/api/pin?username=ltyzzzxxx&repo=ltyzzz-rpc&theme=transparent&bg_color=15,f2f7fd,E0EAFC)](https://github.com/ltyzzzxxx/ltyzzz-rpc)
 
 3. Click [this](https://ltyzzzxxx.github.io/) to enter into my cool personal Blog!
+
+### 🎉 Get in touch
+
+Welcome to get in touch with me!
+
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/ltyzzzxxx)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tianyu-li-7068b8248/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=blog)](https://ltyzzz.com)
+[![Blog](https://img.shields.io/badge/Blog-blue?logo=blog)](https://ltyzzzxxx.github.io/)
 
 ### 💻 Coding Time
 
@@ -115,10 +124,3 @@ PHP                      1 repo              █░░░░░░░░░░�
 
  Last Updated on 06/06/2023 18:36:48 UTC
 <!--END_SECTION:waka-->
-
-### Get in touch
-
-Welcome to get in touch with me!
-
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/ltyzzzxxx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tianyu-li-7068b8248/)
