@@ -22,9 +22,9 @@
 
 ### ❤️ My Projects
 
-1. This is my Leetcode Solutions Notes Repository
+1. 💻 Cool GPT Terminal based on Web!
 
-[![Leetcode Everyday](https://github-readme-stats.vercel.app/api/pin?username=ltyzzzxxx&repo=Leetcode-Everyday&theme=transparent&bg_color=15,f2f7fd,E0EAFC)](https://github.com/ltyzzzxxx/Leetcode-Everyday)
+[![GPT Terminal](https://github-readme-stats.vercel.app/api/pin?username=ltyzzzxxx&repo=gpt-web-terminal&theme=transparent&bg_color=15,f2f7fd,E0EAFC)](https://github.com/ltyzzzxxx/gpt-web-terminal)
 
 2. This is the RPC framework implemented through Java. 
 
