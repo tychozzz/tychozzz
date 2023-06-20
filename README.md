@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=ltyzzzxxx&count_private=true&show_icons=true&bg_color=15,f2f7fd,E0EAFC" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ltyzzzxxx&count_private=true&show_icons=true" />
 </a>
 
 ### ❤️ My Projects
