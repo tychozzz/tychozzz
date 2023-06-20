@@ -1,14 +1,14 @@
 <h1 align="center">Hi guys 👋, I'm ltyzzz</h1>
 <h3 align="center">A Full-Stack Developer.</h3>
 
-### 🌟 ** 关于我 ｜ About Me**
+### 🌟 关于我 ｜ About Me
 - 📖 博客 ｜ Blog: [对于学习的记录](https://ltyzzzxxx.github.io/)
 - 📚 作品集网站 ｜ Portfolio: [我的个人简历](https://ltyzzz.com/)
-- ⭐ 项目 ｜ Projects: [GPT Terminal]() | [RPC]()
-- 🧭 专栏 ｜ Column: [GPT Terminal 专栏]()
-- 🎈 知识库 ｜ Knowledge Base：[共享知识库网站]()
+- ⭐ 项目 ｜ Projects: [GPT Terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) | [RPC](https://github.com/ltyzzzxxx/ltyzzz-rpc)
+- 🧭 专栏 ｜ Column: [GPT Terminal 专栏](https://juejin.cn/column/7244174817679425591)
+- 🎈 知识库 ｜ Knowledge Base：[共享知识库网站](https://knowledge-base.cn/)
 
-### ✨ ** 我的技能 | My Skils **  
+### ✨ 我的技能 ｜ My Skils   
 
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
 ![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
@@ -23,7 +23,7 @@
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
 
-### 🏆 ** 我的成就 ｜ My Achievements **
+### 🏆 我的成就 ｜ My Achievements
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=ltyzzzxxx&count_private=true&show_icons=true" />
