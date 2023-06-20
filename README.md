@@ -2,11 +2,11 @@
 <h3 align="center">A Full-Stack Developer.</h3>
 
 ### 🌟 关于我 ｜ About Me
-- 📖 博客 ｜ Blog: [对于学习的记录](https://ltyzzzxxx.github.io/)
-- 📚 作品集网站 ｜ Portfolio: [我的个人简历](https://ltyzzz.com/)
-- ⭐ 项目 ｜ Projects: [GPT Terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) | [RPC](https://github.com/ltyzzzxxx/ltyzzz-rpc)
-- 🧭 专栏 ｜ Column: [GPT Terminal 专栏](https://juejin.cn/column/7244174817679425591)
-- 🎈 知识库 ｜ Knowledge Base：[共享知识库网站](https://knowledge-base.cn/)
+- 📖 博客 ｜ Blog - [对于学习的记录](https://ltyzzzxxx.github.io/)
+- 📚 作品集网站 ｜ Portfolio - [我的个人简历](https://ltyzzz.com/)
+- ⭐ 项目 ｜ Projects - [GPT Terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) | [RPC](https://github.com/ltyzzzxxx/ltyzzz-rpc)
+- 🧭 专栏 ｜ Column - [GPT Terminal 专栏](https://juejin.cn/column/7244174817679425591)
+- 🎈 知识库 ｜ Knowledge Base - [共享知识库网站](https://knowledge-base.cn/)
 
 ### ✨ 我的技能 ｜ My Skils   
 
