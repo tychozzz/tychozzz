@@ -1,7 +1,14 @@
 <h1 align="center">Hi guys 👋, I'm ltyzzz</h1>
 <h3 align="center">A Full-Stack Developer.</h3>
 
-### 🌟 **My Skills**  
+### 🌟 ** 关于我 ｜ About Me**
+- 📖 博客 ｜ Blog: [对于学习的记录](https://ltyzzzxxx.github.io/)
+- 📚 作品集网站 ｜ Portfolio: [我的个人简历](https://ltyzzz.com/)
+- ⭐ 项目 ｜ Projects: [GPT Terminal]() | [RPC]()
+- 🧭 专栏 ｜ Column: [GPT Terminal 专栏]()
+- 🎈 知识库 ｜ Knowledge Base：[共享知识库网站]()
+
+### ✨ ** 我的技能 | My Skils **  
 
 ![](https://img.shields.io/badge/-Java-4C7491?style=flat-square&logo=java&logoColor=fff)
 ![](https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=Spring&logoColor=fff)
@@ -16,16 +23,13 @@
 ![](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=Redis&logoColor=fff)
 ![](https://img.shields.io/badge/-Git-E84E31?style=flat-square&logo=Git&logoColor=fff)
 
+### 🏆 ** 我的成就 ｜ My Achievements **
 
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api?username=ltyzzzxxx&count_private=true&show_icons=true" />
 </a>
 
-Click [this](https://ltyzzzxxx.github.io/) to enter into my cool personal Blog!
-
-### 🎉 Get in touch
-
-Welcome to get in touch with me!
+### 🎉 联系我 ｜ Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/ltyzzzxxx)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tianyu-li-7068b8248/)
