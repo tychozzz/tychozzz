@@ -5,7 +5,7 @@
 - ✨ 公众号 - [「周三不Coding」项目专栏 & 编程干货](https://github.com/ltyzzzxxx/ltyzzzxxx/assets/73587471/9a0e17a2-f2d5-49eb-83c1-17c00a2af15b)
 - 📖 博客 ｜ Blog - [掘金](https://juejin.cn/user/290747477393821/posts) | [个人博客](https://ltyzzzxxx.github.io/)
 - 📚 作品集网站 ｜ Portfolio - [我的个人简历](https://ltyzzz.com/)
-- ⭐ 项目 ｜ Projects - [GPT Terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) | [RPC](https://github.com/ltyzzzxxx/ltyzzz-rpc) | [GPT RSS](https://github.com/ltyzzzxxx/gpt-rss)
+- ⭐ 项目 ｜ Projects - [GPT Terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) | [RPC](https://github.com/ltyzzzxxx/ltyzzz-rpc) | [GPT RSS](https://github.com/ltyzzzxxx/gpt-rss)  | [Kill Bug](https://github.com/ltyzzzxxx/killbug)
 - 🧭 专栏 ｜ Column - [GPT Terminal 专栏](https://juejin.cn/column/7244174817679425591)
 - 🎈 知识库 ｜ Knowledge Base - [共享知识库网站](https://knowledge-base.cn/)
 
