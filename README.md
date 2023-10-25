@@ -5,7 +5,6 @@
 - 📖 Blog - [Juejin](https://juejin.cn/user/290747477393821/posts) | [Personal Blog](https://ltyzzzxxx.github.io/)
 - 📚 Portfolio - [Resume](https://ltyzzz.com/)
 - ⭐ Projects - [GPT Terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) | [RPC](https://github.com/ltyzzzxxx/ltyzzz-rpc) | [GPT RSS](https://github.com/ltyzzzxxx/gpt-rss)  | [Kill Bug](https://github.com/ltyzzzxxx/killbug)
-- 🎈 Knowledge Base - [Shared KB](https://knowledge-base.cn/)
 
 ### ✨ My Skils   
 
