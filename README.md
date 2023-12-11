@@ -2,7 +2,6 @@
 <h3 align="center">A Full-Stack Developer.</h3>
 
 ### 🌟 About Me
-- 📖 Blog - [Juejin](https://juejin.cn/user/290747477393821/posts) | [Personal Blog](https://ltyzzzxxx.github.io/)
 - 📚 Portfolio - [Resume](https://ltyzzz.com/)
 - ⭐ Projects - [GPT Terminal](https://github.com/ltyzzzxxx/gpt-web-terminal) | [RPC](https://github.com/ltyzzzxxx/ltyzzz-rpc) | [GPT RSS](https://github.com/ltyzzzxxx/gpt-rss)  | [Kill Bug](https://github.com/ltyzzzxxx/killbug)
 
@@ -30,6 +29,5 @@
 ### 🎉 Get in touch
 
 [![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/ltyzzzxxx)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/tianyu-li-7068b8248/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=blog)](https://ltyzzz.com)
 [![Blog](https://img.shields.io/badge/Blog-blue?logo=blog)](https://ltyzzzxxx.github.io/)
