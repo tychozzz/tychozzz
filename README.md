@@ -23,11 +23,11 @@
 ### 🏆 My Achievements
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=ltyzzzxxx&count_private=true&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tychozzz&count_private=true&show_icons=true" />
 </a>
 
 ### 🎉 Get in touch
 
-[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/ltyzzzxxx)
+[![GitHub](https://img.shields.io/badge/GitHub-grey?logo=github)](https://github.com/tychozzz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=blog)](https://ltyzzz.com)
 [![Blog](https://img.shields.io/badge/Blog-blue?logo=blog)](https://ltyzzzxxx.github.io/)
